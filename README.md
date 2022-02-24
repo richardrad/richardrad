@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @richardrad
 - 👀 I’m interested in all things engineering
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on finding a job
 - 📫 How to reach me: dm
